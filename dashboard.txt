@@ -1,0 +1,14 @@
+dashboard done
+database done
+ajout done
+affichage done
+suppression done
+
+recherche
+
+
+displayStudents done
+displayTeacherss
+displayProjectss
+displaySoutenances
+
